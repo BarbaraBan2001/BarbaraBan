@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7db7e4;
+}
+
+iframe {
+  margin: 15px;
+}
+
+img {
+  width: 20%;
+}
